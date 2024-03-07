@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - fabiopernisi
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - g8a9/ferret
+  - fabiopernisi/NeuroNotes
+  - fabiopernisi/SoftEngNotes
+  - fabiopernisi/Visual-WSD
+  - fabiopernisi/metropolis
