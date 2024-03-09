@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: MSc student in AI at <a href='https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/master+of+science/artificial+intelligence/artificial+intelligence_hp/'>Bocconi University</a>. Currently working at <a href='https://milanlproc.github.io/'>MilaNLP</a>
 
 profile:
   align: right
