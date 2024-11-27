@@ -14,6 +14,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I'm deeply fascinated by AI's potential to innovate and solve real-world problems, currently enriching my skills in machine learning and AI through a Master's at Bocconi University. With hands-on experience in NLP (mainly), deep learning, and computer vision, I love diving into complex challenges, especially in areas like healthcare, model safety and ethics. My toolkit includes Python, TensorFlow, and PyTorch, fueling my projects with practical and impactful solutions. Eager for collaborative and pioneering environments, I aim to blend cutting-edge technology with ethical considerations to create a positive impact.
-
-
+Currently attending a Master of Science in AI at Bocconi, working as a Research Engineer Intern at the BMW Group at the Munich HQ, and as a Research Assistant at the MilaNLP Lab, mainly on LLM evaluation and safety. You might also find me running and lifting heavy metal objects at the gym.
